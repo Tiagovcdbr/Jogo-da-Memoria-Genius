@@ -1,4 +1,4 @@
-# Jogo-da-mem-ria-Genius
+# Jogo-da-memoria-Genius
 Jogo da memoria desenvolvido no Bootcamp  JavaScript GameDeveloper
 
 ### Jogo da memória estilo Genius desenvolvido com HTML, Css e javaScript
